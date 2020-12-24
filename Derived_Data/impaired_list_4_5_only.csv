@@ -1,0 +1,30 @@
+ADB_ID,WATER_NAME,Location,EPA_CATEGO,Length_miles,Segement_Size_miles,Length_meters,Class,Cause,Comments,E_coli,DO,Benth_Inverts,Habitat,Periphyton
+ME0106000102_603R06,Cole Brook (Gray),Tributary to Collyer Brook and Royal River,5,2.01882084,2.49,3248.983703,B,Benthic-Macroinvertebrate Bioassessments (Streams),,FALSE,FALSE,TRUE,FALSE,FALSE
+ME0106000103_607R01,Black Brook  (Windham),Tributary to Presumpscot River,5,6.07245588,6.07,9772.689982,B,"E. coli, dissolved oxygen",,TRUE,TRUE,FALSE,FALSE,FALSE
+ME0106000103_607R03,Colley Wright Brook (Windham),Tributary to Presumpscot River,5,8.157872425,8.16,13128.8493,B,"dissolved oxygen, E. coli",Also Category 4 A for E. coli,TRUE,TRUE,FALSE,FALSE,FALSE
+ME0106000103_607R07,Inkhorn Brook (Westbrook),Tributary to Presumpscot River,5,4.155186685,4.32,6687.138135,B,"dissolved oxygen, E. coli",Also Category 4 A for E. coli,TRUE,TRUE,FALSE,FALSE,FALSE
+ME0106000103_607R08,Mosher Brook (Gorham),Tributary to Presumpscot River,5,1.972218503,2.03,3173.984363,B,"dissolved oxygen, E. coli",Also Category 4 A for E. coli,TRUE,TRUE,FALSE,FALSE,FALSE
+ME0106000103_607R09,Otter Brook  (Windham),Tributary to Presumpscot River,5,1.909329483,2.16,3072.774093,B,"dissolved oxygen, E. coli",Also Category 4 A for E. coli,TRUE,TRUE,FALSE,FALSE,FALSE
+ME0106000103_607R12,Pleasant River (Windham),Mainstem of Pleasant River from Thayer Brook to confluence with Presumpscot River,5,11.23126678,11.2,18075.00795,B,"dissolved oxygen, E. coli",Also Category 4 A for E. coli,TRUE,TRUE,FALSE,FALSE,FALSE
+ME0106000105_610R02,Clark Brook (Westbrook),Tributary to Stroudwater River,5,1.225630093,1.23,1972.464382,C,dissolved oxygen,,FALSE,TRUE,FALSE,FALSE,FALSE
+ME0106000105_610R04,"Stroudwater River (Portland, Westbrook)",Tributary to Fore River and Casco Bay,5,6.183471576,6.2,9951.352782,B,dissolved oxygen,,FALSE,TRUE,FALSE,FALSE,FALSE
+ME0106000105_610R07,"Red Brook  (Scarborough,  S Portland)",Tributary to Long Creek,5,5.457675227,5.4,8783.294448,C,"Polychlorinated biphenyls, Habitat Assessment
+(Streams)","Category 5-D Legacy pollutants fpr the PCBs,a nd 4-A for habitat.",FALSE,FALSE,FALSE,TRUE,FALSE
+ME0106000105_610R08,Fall Bk  (Portland),Tributary to Back Cove and Casco Bay,5,2.541391525,2.54,4089.981383,C,Habitat Assessment (Streams),,FALSE,FALSE,FALSE,TRUE,FALSE
+ME0106000106_602R03,Concord Gully (Freeport),Tributary to Harraseeket River,5,2.466375735,2.47,3969.25493,B,"E. coli, Benthic-Macroinvertebrate Bioassessments (Streams), Habitat Assessment, Streams, dissolved oxygen, Periphyton (Aufwuchs) Indicator Bioassessments","Category 5 only fo E.coli, category 4 for the others.",TRUE,TRUE,TRUE,TRUE,TRUE
+ME0106000102_603R02,Chandler River including East Branch,Tributary to Royal River,4A,27.66673507,27.19,44525.38313,B,dissolved oxygen,,FALSE,TRUE,FALSE,FALSE,FALSE
+ME0106000103_607R06,Hobbs Brook (Cumberland),Tributary to Piscataqua River,4A,1.543175195,1.54,2483.504708,B,"E. coli, dissolved oxygen",,TRUE,TRUE,FALSE,FALSE,FALSE
+ME0106000103_607R10,Thayer Brook,Tributary to Pleasant River,4A,4.738153975,4.7,7625.334922,B,dissolved oxygen,,FALSE,TRUE,FALSE,FALSE,FALSE
+ME0106000103_607R11,Nason Brook (Gorham),Tributary to Presumpscot River,4A,3.462993004,3.5,5573.158159,B,E. coli,,TRUE,FALSE,FALSE,FALSE,FALSE
+ME0106000105_607R11_01,"Nasons Brook (Portland), trib to Fore River",Tributary to Fore River,4A,2.132220073,2,3431.482445,C,"Benthic-Macroinvertebrate Bioassessments (Streams), dissolved oxygen, Periphyton (Aufwuchs) Indicator Bioassessments",,FALSE,TRUE,TRUE,FALSE,TRUE
+ME0106000105_607R11_02,"Nasons Brook (Westbrook), trib to Fore River",Tributary to Fore River,4A,0.808042397,0.8,1300.420784,B,"Benthic-Macroinvertebrate Bioassessments (Streams), dissolved oxygen, Periphyton (Aufwuchs) Indicator Bioassessments",,FALSE,TRUE,TRUE,FALSE,TRUE
+ME0106000105_609R01,Dole Brook (formerly known as 'Unnamed Stream- Portland 3'),Tributary to Presumpscot River,4A,2.131205776,1.6,3429.850088,B,Benthic-Macroinvertebrate Bioassessments (Streams),,FALSE,FALSE,TRUE,FALSE,FALSE
+ME0106000105_610R01,Capisic Brook,Portland,4A,4.772880688,4.1,7681.22226,C,"Benthic-Macroinvertebrate Bioassessments (Streams), Habitat Assessment (Streams), Periphyton (Aufwuchs) Indicator Bioassessments",,FALSE,FALSE,TRUE,TRUE,TRUE
+ME0106000105_610R05,Trout Brook  (South Portland),Tributary to Fore River / Casco Bay,4A,2.885511181,2.93,4643.789394,C,"Benthic-Macroinvertebrate Bioassessments (Streams), Habitat Assessment (Streams)",,FALSE,FALSE,TRUE,TRUE,FALSE
+ME0106000105_610R06,Kimball Brook,Tributary to Fore River / Casco Bay,4A,1.580350278,1.55,2543.332325,C,"Benthic-Macroinvertebrate Bioassessments (Streams), Habitat Assessment (Streams)",,FALSE,FALSE,TRUE,TRUE,FALSE
+ME0106000105_610R09,Barberry Cr,Tributary to Fore River / Casco Bay,4A,2.508734091,3.03,4037.424231,C,"Benthic-Macroinvertebrate Bioassessments (Streams), Habitat Assessment (Streams)",,FALSE,FALSE,TRUE,TRUE,FALSE
+ME0106000106_602R01,Frost Gully Brook,Tributary to Harraseelet River,4A,3.174338746,3.2,5108.613233,A,"Benthic-Macroinvertebrate Bioassessments (Streams), Habitat Assessment (Streams), E. coli",,TRUE,FALSE,TRUE,TRUE,FALSE
+ME0106000106_602R02,Mare Brook (Brunswick) and selected tributaries,Includes tributaries downstream of airport runway,4A,8.018991386,8,12905.34148,B,"Benthic-Macroinvertebrate Bioassessments (Streams), Habitat Assessment (Streams)",,FALSE,FALSE,TRUE,TRUE,FALSE
+ME0106000101_605R01,Mile Brook (Casco),Tributary to Crooked River,4B,2.266210513,2.28,3647.119587,B,Benthic-Macroinvertebrate Bioassessments (Streams),,FALSE,FALSE,TRUE,FALSE,FALSE
+ME0106000105_610R03,Long Creek (South Portland),Tributary to Fore River / Casco Bay,4B,3.988217974,4.12,6418.427504,C,"Benthic-Macroinvertebrate Bioassessments (Streams), Habitat Assessment (Streams)",,FALSE,FALSE,TRUE,TRUE,FALSE
+ME0106000103_608R01,Presumpscot River,Dundee dam to Saccarrappa Dam,4C,10.53480307,10.52,16954.15601,A/B,Other flow regime alterations,,FALSE,FALSE,FALSE,FALSE,FALSE

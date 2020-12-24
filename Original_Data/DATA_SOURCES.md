@@ -9,7 +9,7 @@ included here for reference.
 ## Geospatial Data
 Curtis C. Bohlen Received an E-mail from Becky Schaffner, at Maine DEP on 
 November 19th, 2020, containing a layer package file, 
-`ADB_2016_Integrated_REport.lpk`.  A layer package contains both data
+`ADB_2016_Integrated_Report.lpk`.  A layer package contains both data
 and symbology. The data can be extracted, edited, symbolized, etc.
 
 This file includes the geospatial data for impaired stream and river
