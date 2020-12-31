@@ -33,11 +33,11 @@ Finally, we added Indicator variables for five causes of impairment:
 *  Habitat       (Stream habitat assessments)
 *  Periphyton    (Assessment of periphyton community composition)
 
-Of those, Benthic Invertebrates, 	Habitat, and 	Periphyton have fairly high 
+Of those, Benthic Invertebrates, Habitat, and Periphyton have fairly high 
 concordance, as do Dissolved oxygen and E coli.
 
 ## Impaired Waters Shapefile
-The shapefile `CB_Impairments` was created by joining `ADB_2016_Casco_Bay` to 
+The shapefile `CB_Impaired` was created by joining `ADB_2016_Casco_Bay` to 
 `impaired_list_4_5_only.csv`, based on the "ADB_ID" field, exporting to the new
 shapefile, and removing uninformative identifiers.
 
