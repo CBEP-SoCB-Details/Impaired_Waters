@@ -10,7 +10,7 @@ Integrated Report located within the Casco Bay watershed.  It was derived by
 exporting the attribute table of `ADB_2016_Casco_Bay`, and editing by hand to
 remove uninformative identifiers.  Note that this list includes waters 
 "presumed" to be in attainment of water quality standards, but for which
-adequate data in not available (Categories 2 and 3).
+adequate data is not available (Categories 2 and 3).
 
 The CSV file `impaired_list_4_5_only.csv` was created from `impaired_list.csv`
 by hand-editing, by Curtis C. Bohlen.  THe file's primary purpose was to
@@ -60,7 +60,7 @@ Report:
 *  Category 5-C: Waters Impaired by Atmospheric Deposition of Mercury  
 *  Category 5-D: Rivers and Streams Impaired by Legacy Pollutants  
 
-Categories 2 and 3 sometime have related text suggesting these waters are, in
+Categories 2 and 3 sometimes have related text suggesting these waters are, in
 the absence of data to the contrary, "presumed"" to meet all designated uses.
 For purposes of SoCB, we will focus on categories 4 and 5, where we have data
 showing that streams are not meeting all water quality requirements.
